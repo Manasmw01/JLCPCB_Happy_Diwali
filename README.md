@@ -1,10 +1,10 @@
 # JLCPCB_Happy_Diwali
 
 
-> The festival of Diwali, the festival of lights has finally arrived.
+> Diwali, the festival of lights has finally arrived.
  And hence, first and foremost, I wish you a very, very Happy Diwali. 
  It is India’s biggest religious festival celebrated across the states. As per Hindu belief Deepavali is the time of conquering evil by good and darkness by light.
-There is special significance of worship of goddess Lakshmi on this auspicious day. It is a belief that goddess Lakshmi brings wealth and prosperity to the households.
+There is a special significance of worship of goddess Lakshmi on this auspicious day. It is a belief that goddess Lakshmi brings wealth and prosperity to the households.
 
 <p align="center">
 <img align="center" src="https://github.com/Manasmw01/JLCPCB_Happy_Diwali/blob/main/Lantern.jpg">
